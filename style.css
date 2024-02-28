@@ -8,6 +8,12 @@ body {
   margin: 0;
 }
 
+/*.desc{
+  font-size: 14px;
+  color: whitesmoke;
+  font-family: "Lato", sans-serif;
+}*/
+
 nav {
   background-color: #111;
   color: white;
@@ -23,6 +29,7 @@ nav {
 .search {
   display: flex;
   align-items: center;
+  justify-content: center;
   background-color: gray;
   padding: 10px 20px;
   border-radius: 10px;
