@@ -33,6 +33,7 @@ nav {
   background-color: gray;
   padding: 10px 20px;
   border-radius: 10px;
+  
 }
 
 .searchInput {
@@ -113,8 +114,8 @@ nav {
   font-weight: 300;
   text-align: center;
   color: white;
-  border: 1px solid gray;
   z-index: 1;
+  font-weight: 600;
 }
 
 .buyButton {
